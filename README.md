@@ -1,5 +1,10 @@
 # Data Visualization Project
 
+### Python libraries need to install
+`pip install numpy`
+`pip install pandas`
+`pip install matplotlib`
+
 ## Overview
 This project demonstrates the foundational understanding of data visualization using Python libraries like Matplotlib and Pandas. It covers key concepts such as plotting various chart types (line, bar, scatter plots), customizing visualizations with labels, titles, and legends, and handling multiple datasets to generate meaningful insights.
 
